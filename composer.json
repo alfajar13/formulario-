@@ -1,0 +1,12 @@
+{
+    "name": "repositoriocompartido/formulario_php",
+    "description": "primer proyecto con php",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Rachid EL FAKHAR",
+            "email": "alfajar0471@gmail.com"
+        }
+    ],
+    "require": {}
+}

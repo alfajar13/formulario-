@@ -53,11 +53,8 @@ button {
 
 button:hover {
     background-color: #0056b3;
-        button:hover {
-        background-color: #0056b3; /* Cambia el color de fondo */
-        color: #ffffff; /* Cambia el color del texto */
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Añade una sombra */
-        transform: scale(1.05); /* Aumenta ligeramente el tamaño */
-        transition: all 0.3s ease; /* Añade una transición suave */
-    }
+    color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+    transition: all 0.3s ease;
 }
