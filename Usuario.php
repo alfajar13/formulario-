@@ -1,4 +1,3 @@
-// Usuario.php
 <?php
 class Usuario {
     private $nombre;
@@ -12,7 +11,7 @@ class Usuario {
         $this->apellidos = $apellidos;
         $this->edad = $edad;
         $this->email = $email;
-        $this->password = password_hash($password, PASSWORD_BCRYPT); // Hash de la contraseña
+        $this->password = password_hash($password, PASSWORD_BCRYPT); 
     }
 
     public function guardarEnArchivo() {

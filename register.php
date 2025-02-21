@@ -1,4 +1,3 @@
-// register.php
 <?php
 require_once 'Usuario.php';
 
